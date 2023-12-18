@@ -1,5 +1,5 @@
-var path,boy, leftBoundary,rightBoundary;
-var pathImg,boyImg;
+var path,boy,leftBoundary,rightBoundary
+var pathImg,boyImg
 var i;
 
 function preload(){
